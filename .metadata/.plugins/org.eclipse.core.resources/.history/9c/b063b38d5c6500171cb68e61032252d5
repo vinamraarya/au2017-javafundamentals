@@ -1,0 +1,9 @@
+package com.au.java.example;
+
+public class JavaFundamentals {
+	
+	public static void main(String[] args){
+		System.out.println("Hello World");
+	}
+
+}
