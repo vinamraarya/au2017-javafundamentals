@@ -1,5 +1,4 @@
 package com.au.java.example;
-
 // TODO: Auto-generated Javadoc
 /**
  * The Class JavaFundamentals.
@@ -8,15 +7,13 @@ public class JavaFundamentals {
 	
 	/** The var. */
 	private static Integer var=10;
-	
 	/**
 	 * Increment.
 	 */
 	public static void Increment()
 	{
 		var++;
-	}
-	
+	}	
 	/**
 	 * The main method.
 	 *
